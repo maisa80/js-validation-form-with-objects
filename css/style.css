@@ -1,0 +1,13 @@
+.required {
+    color: red;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.container {
+    /* width: 700px; */
+    margin-top: 20px;
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 20px;
+}
